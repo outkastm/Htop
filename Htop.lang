@@ -1,0 +1,97 @@
+[de-de]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Ein plattformübergreifender, interaktiver Prozess-Viewer. Htop ermöglicht das vertikale und horizontale Scrollen der Prozessliste, um vollständige Befehlszeilen und zugehörige Informationen wie Speicher- und CPU-Verbrauch anzuzeigen. Auch systemweite Informationen wie die durchschnittliche Auslastung oder die Swap-Nutzung werden angezeigt."
+release_note = "Enthält htop v3.5.3 aus dem Quellcode kompiliert"
+important    = "Verwenden Sie das integrierte Terminal und führen Sie htop --help aus, um Hilfe zu erhalten"
+
+[en-us]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "A cross-platform interactive process viewer. Htop allows scrolling the list of processes vertically and horizontally to see their full command lines and related information like memory and CPU consumption. Also system wide information, like load average or swap usage, is shown."
+release_note = "Bundles htop v3.5.3 built from source"
+important    = "use the built in terminal and run htop --help for help"
+
+[es-es]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Un visor de procesos interactivo multiplataforma. Htop permite desplazarse vertical y horizontalmente por la lista de procesos para ver sus líneas de comandos completas e información relacionada, como el consumo de memoria y CPU. También se muestra información de todo el sistema, como la carga media o el uso de swap."
+release_note = "Incluye htop v3.5.3 compilado desde el código fuente"
+important    = "Utilice la terminal integrada y ejecute htop --help para obtener ayuda"
+
+[fr-fr]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Un visualiseur de processus interactif multiplateforme. Htop permet de faire défiler la liste des processus verticalement et horizontalement pour voir leurs lignes de commande complètes et les informations associées telles que la consommation de mémoire et de processeur. Des informations à l'échelle du système, comme la charge moyenne ou l'utilisation du swap, sont également affichées."
+release_note = "Intègre htop v3.5.3 compilé à partir des sources"
+important    = "Utilisez le terminal intégré et exécutez htop --help pour obtenir de l'aide"
+
+[hu-hu]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Egy platformfüggetlen, interaktív folyamatmegjelenítő. A Htop lehetővé teszi a folyamatok listájának függőleges és vízszintes görgetését, így megtekinthetők a teljes parancssorok és a kapcsolódó információk, például a memória- és CPU-fogyasztás. A teljes rendszerre vonatkozó információk is megjelennek, mint az átlagos terhelés vagy a cserehely (swap) használata."
+release_note = "Forrásból fordított htop v3.5.3 verziót tartalmaz"
+important    = "Használja a beépített terminált, és futtassa a htop --help parancsot a segítségért"
+
+[it-it]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Un visualizzatore di processi interattivo multipiattaforma. Htop consente di scorrere l'elenco dei processi in verticale e in orizzontale per visualizzare le righe di comando complete e le relative informazioni, come il consumo di memoria e CPU. Vengono inoltre mostrate informazioni a livello di sistema, come il carico medio o l'uso dello swap."
+release_note = "Include htop v3.5.3 compilato dai sorgenti"
+important    = "Utilizzare il terminale integrato ed eseguire htop --help per assistenza"
+
+[ja-jp]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "クロスプラットフォーム対応のインタラクティブなプロセスビューアです。Htop ではプロセス一覧を上下左右にスクロールして、完全なコマンドラインやメモリ・CPU 使用量などの関連情報を確認できます。また、ロードアベレージやスワップ使用量などのシステム全体の情報も表示されます。"
+release_note = "ソースからビルドされた htop v3.5.3 を同梱"
+important    = "内蔵ターミナルを使用し、htop --help を実行してヘルプを参照してください"
+
+[ko-kr]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "크로스 플랫폼 대화형 프로세스 뷰어입니다. Htop을 사용하면 프로세스 목록을 세로 및 가로로 스크롤하여 전체 명령줄과 메모리 및 CPU 소비량과 같은 관련 정보를 볼 수 있습니다. 또한 평균 로드율이나 스왑 사용량과 같은 시스템 전체 정보도 표시됩니다."
+release_note = "소스에서 빌드된 htop v3.5.3 포함"
+important    = "내장된 터미널을 사용하고 htop --help를 실행하여 도움말을 확인하세요"
+
+[pl-pl]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Wieloplatformowa, interaktywna przeglądarka procesów. Htop umożliwia pionowe i poziome przewijanie listy procesów, aby zobaczyć ich pełne polecenia oraz powiązane informacje, takie jak zużycie pamięci i procesora. Wyświetlane są również informacje dotyczące całego systemu, takie jak średnie obciążenie czy użycie pamięci swap."
+release_note = "Zawiera htop v3.5.3 skompilowany ze źródeł"
+important    = "Użyj wbudowanego terminala i uruchom htop --help, aby uzyskać pomoc"
+
+[pt-pt]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Um visualizador de processos interativo multiplataforma. O Htop permite deslocar a lista de processos vertical e horizontalmente para ver as suas linhas de comando completas e informações relacionadas, como o consumo de memória e CPU. Também são apresentadas informações globais do sistema, como a carga média ou a utilização do swap."
+release_note = "Inclui htop v3.5.3 compilado a partir do código-fonte"
+important    = "Utilize o terminal integrado e execute htop --help para obter ajuda"
+
+[ru-ru]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Кроссплатформенный интерактивный просмотрщик процессов. Htop позволяет прокручивать список процессов по вертикали и горизонтали, чтобы видеть полные строки команд и связанную информацию, такую как использование памяти и ЦП. Также отображаются общесистемные данные, например средняя загрузка или использование подкачки (swap)."
+release_note = "Содержит htop v3.5.3, собранный из исходного кода"
+important    = "Используйте встроенный терминал и выполните htop --help для получения справки"
+
+[tr-tr]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "Çapraz platform etkileşimli bir işlem görüntüleyici. Htop, tam komut satırlarını, bellek ve CPU tüketimi gibi ilgili bilgileri görmek için işlem listesini dikey ve yatay olarak kaydırmanıza olanak tanır. Ayrıca ortalama yük veya takas alanı (swap) kullanımı gibi sistem genelindeki bilgiler de gösterilir."
+release_note = "Kaynak koddan derlenmiş htop v3.5.3 sürümünü içerir"
+important    = "Dahili terminali kullanın ve yardım için htop --help komutunu çalıştırın"
+
+[zh-cn]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "一款跨平台的交互式进程查看器。Htop 支持垂直和水平滚动进程列表，以查看完整的命令行以及内存和 CPU 消耗等相关信息。同时还会显示系统整体信息，例如平均负载或 Swap 交换内存使用情况。"
+release_note = "基于源代码打包，包含 htop v3.5.3"
+important    = "请使用内置终端并运行 htop --help 以获取帮助信息"
+
+[zh-hk]
+name = "Htop (CLI)"
+auth = "Htop"
+descript = "一款跨平台的互動式處理程序檢視器。Htop 支援垂直与水平滾動處理程序列表，以檢視完整的指令列以及記憶體和 CPU 消耗等相關資訊。同時亦會顯示系統整體資訊，例如平均負載或 Swap 交換記憶體使用情況。"
+release_note = "基於原始碼打包，內建 htop v3.5.3"
+important    = "請使用內置終端機並執行 htop --help 以獲取說明資訊"
